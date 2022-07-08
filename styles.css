@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: grey;
+}
+p,div,h1,h2{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.corum,button{
+    background-color: white;
+    display:inline;
+    height: 60px;
+    width: 60px;
+    border-radius: 25px;
+    margin-top: 60px;
+    margin-right: 35px;
+    margin-left:35px;
+    font-size: 16pt;
+        font-weight: 600px;
+    text-align: center;
+    }
