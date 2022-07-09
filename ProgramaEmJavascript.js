@@ -12,11 +12,10 @@ function increment() {
         console.log(a)
         
         
-        // ✅ Change color of first element with class
+        
         a[0].style.color = 'green';
         
-        // ✅ Change color of all elements with class
-      
+        
         }
 }
 
@@ -30,10 +29,8 @@ function decrement() {
         console.log(b)
         
         
-        // ✅ Change color of first element with class
         b[0].style.color = 'blue';
         
-        // ✅ Change color of all elements with class
-    }
+       }
  
 }
